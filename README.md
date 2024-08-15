@@ -4,7 +4,7 @@ This project demonstrates the usage of the `falcon` library in Node.js to perfor
 
 ## Libraries Used
 
-- [`falcon`](https://www.npmjs.com/package/falcon-crypto): A library for SPHINCS+ post-quantum secure signatures.
+- [`falcon`](https://www.npmjs.com/package/falcon-crypto): A library for FALCON post-quantum secure signatures.
 - [`fs/promises`](https://nodejs.org/api/fs.html#fspromisesreadfilepath-options): Node.js File System module with Promises API.
 - [`path`](https://nodejs.org/api/path.html): Node.js module for handling and transforming file paths.
 
